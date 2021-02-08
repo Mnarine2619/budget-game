@@ -2,18 +2,33 @@
   text-align: center;
 }
 .Navbar{
-    background-color :tomato;
-    padding : 10px;
+    background-color :blue;
+    padding : 20px;
 }
 .Navbar h3 {
     font-size:30px;
     margin: 0;
+    padding: 30px;
 }
-Dashboard{
-    background-color: tomato;
+.Dashboard{
+    background-color: grey;
     width:50%;
+    margin-left:25%;
+    padding:20px;
+    margin-top: 40px;
+    margin-bottom:40px;
 
 }
-choice-group{
+.choice-group{
     text-align: left;
+}
+.Card {
+    background-color: blue;
+    width:30%;
+    padding:20;
+    margin: 10px;
+
+}
+.card-container{
+    display:flex;
 }
